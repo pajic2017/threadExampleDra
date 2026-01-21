@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ThredExample:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ThredExample_jar</output-path>
+    <root id="archive" name="ThredExample.jar">
+      <element id="module-output" name="ThredExample" />
+      <element id="extracted-dir" path="$USER_HOME$/Downloads/acm.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
