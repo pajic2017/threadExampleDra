@@ -18,6 +18,7 @@ public class Slider extends GRect implements Runnable {
     @Override
     public void run(){
         // animate a slide across the screen
+        log.info("animate a slide across the screen");
         for(int i=0;i<1000/STEP;i++){
             pause(40);
             move(STEP,0);
